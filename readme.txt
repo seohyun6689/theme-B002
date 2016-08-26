@@ -7,3 +7,4 @@ Detail: CM-001 테마는  더플러그닷컴에서 판매하는 그누보드5 �
 License: GNU LESSER GENERAL PUBLIC LICENSE Version 2.1
 License URI: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 Github: https://github.com/seohyun6689/theme-B002.git
+Download: https://github.com/seohyun6689/theme-B002/archive/master.tar.gz
